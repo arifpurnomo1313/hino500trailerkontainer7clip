@@ -1,0 +1,672 @@
+{
+  "pc": "modtruk.hinolimaratusijoseven",
+  "version_app": "1.0",
+  "link_new_app": "null",
+  "name_godev": "Star+Mod",
+  "interval_inter": 2,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter":  "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "applovin": [
+    {
+      "banner": "",
+      "inter": "",
+      "mrec": ""
+    }
+  ],
+  "list_mod": [
+    {
+      "id": "1",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-500-full-muatan-by-jods-tv/Hino%20500%20Full%20Muatan%20by%20Jods%20TV.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601500.us.archive.org/22/items/hino-500-full-muatan/Hino%20500%20Full%20Muatan.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601409.us.archive.org/0/items/icon_20210819/icon.png"   
+    },
+	
+    {
+      "id": "2",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-500-muatan-pipa-beton-by-ghoni-rk/Hino%20500%20Muatan%20Pipa%20Beton%20by%20Ghoni%20Rk.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal1-2/hal1-2.png"      
+    },
+	
+	{
+      "id": "3",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-500-tangki-by-jods-tv/Hino%20500%20Tangki%20by%20Jods%20TV.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601405.us.archive.org/12/items/hino-500-tangki-semen-gersik/Hino%20500%20Tangki%20semen%20gersik.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal1-3/hal1-3.png"      
+    },
+	
+	{
+      "id": "4",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-500-tronton-by-jods-tv/Hino%20500%20Tronton%20by%20Jods%20TV.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601503.us.archive.org/8/items/hino-500-tronton/Hino%20500%20Tronton.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal1-4/hal1-4.png"      
+    },
+	
+	{
+      "id": "5",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-700-by-mah-channel/Hino%20700%20by%20MAH%20Channel.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal1-5/hal1-5.png"      
+    },
+	
+	{
+      "id": "6",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-dump-by-jods-tv/Hino%20Dump%20by%20Jods%20TV.bussidmod
+",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal1-6/hal1-6.png"      
+    },
+	
+	{
+      "id": "7",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-lohan-purwo-logistic-cvt-wsp-excavator/hino%20lohan%20purwo%20logistic%20cvt%20WSP%20excavator.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia801508.us.archive.org/33/items/hal-1-7_202108/hal-1-7.png"      
+    },
+	
+	{
+      "id": "8",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-tribal-terpal-no-topi_202108/Hino%20Tribal%20Terpal%20No%20Topi.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal1-8/hal1-8.png"      
+    },
+	
+	{
+      "id": "9",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-engkel-hino-500-ng-hsd/Truck%20Engkel%20Hino%20500%20NG%20HSD.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal1-9/hal1-9.png"      
+    },
+	
+	{
+      "id": "10",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-500-angkut-pipa_202108/Truck%20Hino%20500%20Angkut%20Pipa.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601406.us.archive.org/15/items/hal-2-1/hal%202%20-1.png"      
+    },
+	
+	{
+      "id": "11",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-500-bumper-modif-by-hsd-codit-aldovadewa/Truck%20Hino%20500%20Bumper%20Modif%20by%20HSD%20Codit%20Aldovadewa.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "https://ia601403.us.archive.org/11/items/truck-hino-500-bumper-modif-by-hsd-codit-aldovadewa_202108/Truck%20Hino%20500%20Bumper%20Modif%20by%20HSD%20Codit%20Aldovadewa.png",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-2/hal2-2.png"      
+    },
+		
+	{
+      "id": "12",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-500-ng-muatan-motor/Truck%20Hino%20500NG%20Muatan%20Motor.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-3/hal2-3.png"      
+    },
+	
+	{
+      "id": "13",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-500-ng-muatan-semen/Truck%20Hino%20500NG%20Muatan%20Semen.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-4/hal2-4.png"      
+    },
+	
+	{
+      "id": "14",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-500-ng-muatan-sound-system/Truck%20Hino%20500NG%20Muatan%20Sound%20System.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-5/hal2-5.png"      
+    },
+	
+	{
+      "id": "15",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-500-ng-terpal-oren/Truck%20Hino%20500NG%20Terpal%20Oren.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-6/hal2-6.png"      
+    },
+	
+	{
+      "id": "16",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-lohan-muatan-kayu/Truck%20Hino%20Lohan%20Muatan%20Kayu.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-7/hal2-7.png"      
+    },
+	
+	{
+      "id": "17",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-losbak-muat-semen/Truck%20Hino%20Losbak%20Muat%20Semen.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-8/hal2-8.png"      
+    },
+	
+	{
+      "id": "18",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-hino-profia-box/Truck%20Hino%20Profia%20Box.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal2-9/hal2-9.png"      
+    },
+	
+	{
+      "id": "19",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-500-molen/Hino%20500%20molen.bussidmod
+",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601505.us.archive.org/17/items/hal3-1_202108/hal3-1.png"      
+    },
+	
+	{
+      "id": "20",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-700-sang-mantan-bonfire/Hino700SangMantanBonfire.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-2/hal3-2.png"      
+    },
+	
+	{
+      "id": "21",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-ng-yashi/HINO%20NG%20YASHI.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-3/hal3-3.png"      
+    },
+	
+	{
+      "id": "22",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-500-fg-trailer-maersk/Hino%20500%20FG%20Trailer%20Maersk.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-4/hal3-4.png"      
+    },
+	
+	{
+      "id": "23",
+      "tittle": "https://archive.org/download/hino-muat-bulog-1/hino%20muat%20bulog1.bussidmod",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-5/hal3-5.png"      
+    },
+	
+	{
+      "id": "24",
+      "tittle": "",
+      "link_file": "https://archive.org/download/fuso-tribal-bak/Fuso%20tribal%20bak.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-6/hal3-6.png"      
+    },
+	
+	{
+      "id": "25",
+      "tittle": "",
+      "link_file": "https://archive.org/download/andreas-r-35-hino-500-ng-hsd-strom-edition/Andreas_R35_Hino_500_NG_HSD_Strom_Edition.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-7/hal3-7.png"      
+    },
+	
+	{
+      "id": "26",
+      "tittle": "",
+      "link_file": "https://archive.org/download/fuso-muatan-tanki-gas/Fuso%20muatan%20tanki%20gas.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-8/hal3-8.png"      
+    }, 
+	
+	{
+      "id": "27",
+      "tittle": "https://archive.org/download/tameng-3/TAMENG%203.bussidmod",
+      "link_file": "",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal3-9/hal3-9.png"      
+    },
+	
+	{
+      "id": "28",
+      "tittle": "",
+      "link_file": "https://archive.org/download/fuso-tg-ragil-topi-no-terpal-v-1/Fuso%20TG%20Ragil%20Topi%20No%20Terpal%20V1%20-%20.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601503.us.archive.org/12/items/hal-4-1/hal%204-1.png"      
+    },
+	
+	{
+      "id": "29",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-fuso-box/Truck%20Fuso%20Box%20%24.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal4-2/hal4-2.png"      
+    },
+	
+	{
+      "id": "30",
+      "tittle": "",
+      "link_file": "https://archive.org/download/fuso-balak-ragil-namkurmoding-v-1-all-anim/fuso-balak-ragil-namkurmoding-v1%20all%20anim.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal4-3/hal4-3.png"      
+    },
+	
+	{
+      "id": "31",
+      "tittle": "",
+      "link_file": "https://archive.org/download/hino-500-plus-terpal/Hino%20500%20Plus%20Terpal%20.bussidvehicle",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal4-4/hal4-4.png"      
+    },
+	
+	{
+      "id": "32",
+      "tittle": "",
+      "link_file": "https://archive.org/download/mod-bussid-fuso-tg-ragil-selfloader-modbussidterbaru.com/MOD-BUSSID-Fuso-TG-Ragil-Selfloader_modbussidterbaru.com.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal4-5/hal4-5.png"      
+    },
+	
+	{
+      "id": "33",
+      "tittle": "",
+      "link_file": "https://archive.org/download/nissan-angkut-flatbed/Nissan%20Angkut%20Flatbed.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal4-6/hal4-6.png"      
+    },
+	
+	{
+      "id": "34",
+      "tittle": "",
+      "link_file": "https://archive.org/download/4_20210820/4.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal4-7/hal4-7.png"      
+    },
+	
+	{
+      "id": "35",
+      "tittle": "",
+      "link_file": "https://archive.org/download/truck-profia-hybird-box-chamber-v-1/Truck%20Profia%20Hybird%20Box%20Chamber%20v1.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://archive.org/download/hal4-8/hal4-8.png"      
+    },
+	
+    {
+      "id": "36",
+      "tittle": "",
+      "link_file": "https://archive.org/download/cwa-towing-mobl/cwa%20towing%20%2B%20mobl.bussidmod",
+      "link_busidgayor": "",
+      "link_busidsegitiga": "",
+      "link_busidnoterpal": "",
+      "link_busidcincing": "", 
+     
+      
+      "link_liverykotak": "",
+      "link_liverygayor": "",
+      "link_liverysegitiga": "",
+      "link_liverynoterpal": "",
+      "link_liverycincing": "",     
+      "images": "https://ia601400.us.archive.org/23/items/9_20210820/9.png"      
+    }
+  ]
+}
